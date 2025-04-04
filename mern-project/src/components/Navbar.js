@@ -15,7 +15,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="nav-brand">
         <Symbol />
-        KBC AI
+        AI Buddy
       </div>
       <div className="nav-links">
         {!token ? (
