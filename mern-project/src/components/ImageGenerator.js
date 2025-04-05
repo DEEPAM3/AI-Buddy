@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 function ImageGenerator() {
-  const [prompt, setPrompt] = useState('Men life');
+  const [prompt, setPrompt] = useState();
   const [isLoading, setIsLoading] = useState(false);
   const [imageUrl, setImageUrl] = useState('');
   const [error, setError] = useState('');
