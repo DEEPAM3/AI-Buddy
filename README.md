@@ -39,6 +39,10 @@ Ensure you have the following installed:
 
 1. Create a `.env` file in the root directory and add:
    ```env
+   # API KEY FOR IMAGE GENERATION
+   HF_TOKEN=ADD_YOUR_HUGGINGFACE_API_HERE
+   # Enter your secert key here
+   JWT_SECRET=Secert_Key
    MONGO_URI=mongodb://localhost:27017/yourdbname
    PORT=5000
    ```
