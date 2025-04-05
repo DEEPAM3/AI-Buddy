@@ -4,6 +4,8 @@ This is a full-stack MERN (MongoDB, Express.js, React, Node.js) application.
 
 ![generated_image_1](https://github.com/user-attachments/assets/192facaf-8e52-44a5-87a6-aa0fc5ccf866)
 ![generated_image_2](https://github.com/user-attachments/assets/99aee7ad-1b3b-4d3d-9354-2f386b7ff36a)
+![chat_generation](https://github.com/user-attachments/assets/62fb3d2a-28de-4e44-8faf-a91108baf24f)
+
 
 
 
